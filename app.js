@@ -1,8 +1,5 @@
 $(".protected-content").sociallocker({
     theme: "glass",
-    locker: {
-        timer: 180
-    },
     buttons: {
         order: ["facebook-like"]
     },
